@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Domain"
+rootProject.name = "domain-app-v2"
 include(":app")
